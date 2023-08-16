@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/periods", {data:[{}],fetch:{},mutations:void 0});
