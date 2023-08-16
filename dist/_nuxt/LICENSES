@@ -18,9 +18,6 @@
  */
 
 
-/*! npm.im/supports-webp 2.0.1 */
-
-
 /*!
  * CSSPlugin 3.12.2
  * https://greensock.com
@@ -67,6 +64,9 @@
  */
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
+/*! npm.im/supports-webp 2.0.1 */
 
 
 /*!
