@@ -5,6 +5,7 @@ require('dotenv').config({
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'server',
+  ssr: false,
 
   server: {
     port: '3000',
